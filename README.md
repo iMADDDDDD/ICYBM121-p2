@@ -8,7 +8,7 @@ challenge link: https://www.kaggle.com/c/adcg-ss14-challenge-02-spam-mails-detec
 
 
 ideas: 
-* http://scikit-learn.org/stable/datasets/twenty_newsgroups.html
+* http://scikit-learn.org/stable/datasets 20 newsgroups
 * http://scikit-learn.org/stable/modules/outlier_detection.html
 
 
